@@ -1,0 +1,165 @@
+#menu {
+    background-color: #cd5c5c
+}
+
+body {
+    background-color: #e7c5b1;
+}
+
+h1 { 
+    color: #5a0609;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+#j {
+    width: 10%;
+}
+
+
+h2 {
+    margin-left: 70%;
+    position: relative;
+    top: 100px;
+}
+
+p {
+    margin-left: 50%;
+    position: relative;
+    top: -400px;
+}
+
+#yo {
+    width: 400px;
+}
+
+
+h3 {
+    margin-left: 13%;
+    position: relative;
+    top: -100px;
+
+}
+
+#compu {
+    width: 600px;
+    float: right;
+    position: relative;
+    top: -200px;
+}
+
+#html {
+    width: 200px;
+}
+
+#css {
+    width: 200px;
+}
+
+#js {
+    width: 200px;
+    position: relative;
+    top: 300px; 
+    margin-left: -410px;
+}
+
+#github {
+    width: 200px;
+    position: relative;
+    top: 300px;
+}
+
+h4 {
+    position: absolute;
+    top: 1900px;
+    margin-left: 570px;
+}
+
+
+#htmlcaptura1 {
+    width: 500px;
+    position: absolute;
+    top: 2000px ;
+    margin-left: 50px;
+    
+}
+
+#HTML2
+ {
+    width: 500px;
+    position: absolute;
+    top: 2000px ;
+    margin-left: 700px;
+
+ }
+
+ #cursocss {
+    width: 500px;
+    position: absolute;
+    top: 2500px ;
+    margin-left: 700px;
+ }
+
+ #JSCURSO {
+    width: 500px;
+    position: absolute;
+    top: 2500px ;
+    margin-left: 50px;
+ }
+
+ #cursocompleto {
+    width: 500px;
+    position: absolute;
+    top: 3000px ;
+    margin-left: 350px;
+ }
+
+
+
+#piedepagina {
+    background-color: #cd5c5c;
+    padding: 2px;
+    position:absolute;
+    top: 4000px;
+    width: 100%;
+    font-size: 14px;
+    
+
+}
+
+#pie {
+    width: 10%;
+    margin-left: 40%;
+}
+
+#ul  {
+    position: absolute;
+    top: 2px;
+}
+
+
+#instagram {
+    width: 20px;
+
+}
+
+#linkedin {
+    width: 20px;
+
+}
+
+#gmail {
+    width: 20px;
+}
+
+#w {
+    width: 20px;
+}
+
+#github {
+    width: 20px;
+    position: relative;
+    top: 4px;
+}
+
